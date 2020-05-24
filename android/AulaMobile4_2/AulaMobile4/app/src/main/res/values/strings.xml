@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AulaMobile4</string>
+    <string-array name="cursos">
+        <item>Análise e Desenvolvimento de Sistemas</item>
+        <item>Jogos Digitais</item>
+        <item>Segurança da Informação</item>
+        <item>Gestão Comercial</item>
+        <item>Comércio Exterior</item>
+        <item>Secretariado</item>
+        <item>Turismo</item>
+    </string-array>
+</resources>
+
